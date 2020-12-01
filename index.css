@@ -54,6 +54,7 @@ body {
     text-align: center;
     margin-bottom: 30px;
     margin-top: 36px;
+    margin-top: 200px;
   }
 
   .btn{
@@ -89,6 +90,13 @@ body {
   .final{
     width: 800px;
     height: 500px;
+  }
+
+  .btn-cont{
+      width: 500px;
+      height: 100px;
+      align-items: center;
+      justify-content: center;
   }
 
   @media only screen and (max-width: 1200px) {
